@@ -18,7 +18,8 @@ int main() {
 
   printf("n -> ");
   scanf("%d",&n);
-
+  
+  //calculation part
   for (i = 1 ; i <= n ; i++){
     sum = sum + i;
   }

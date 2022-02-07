@@ -25,6 +25,7 @@ int main() {
   printf("Distance -> ");
   scanf("%f",&Distance);
 
+  //calculation part
   if (Distance <= 30){
     Amount = Distance*50;
   }
